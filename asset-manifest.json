@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/widget-test-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/widget-test-react/static/js/main.4f5c3d88.chunk.js",
+    "main.js.map": "/widget-test-react/static/js/main.4f5c3d88.chunk.js.map",
+    "runtime-main.js": "/widget-test-react/static/js/runtime-main.5b672315.js",
+    "runtime-main.js.map": "/widget-test-react/static/js/runtime-main.5b672315.js.map",
+    "static/js/2.3e8193a9.chunk.js": "/widget-test-react/static/js/2.3e8193a9.chunk.js",
+    "static/js/2.3e8193a9.chunk.js.map": "/widget-test-react/static/js/2.3e8193a9.chunk.js.map",
+    "index.html": "/widget-test-react/index.html",
+    "precache-manifest.d5cae2c371af05d5d1b61d052b3b12b0.js": "/widget-test-react/precache-manifest.d5cae2c371af05d5d1b61d052b3b12b0.js",
+    "service-worker.js": "/widget-test-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/widget-test-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3e8193a9.chunk.js.LICENSE.txt": "/widget-test-react/static/js/2.3e8193a9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/widget-test-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b672315.js",
+    "static/js/2.3e8193a9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4f5c3d88.chunk.js"
+  ]
+}
